@@ -1,0 +1,28 @@
+{
+  "name": "webigniter",
+  "version": "0.1.0",
+  "description": "Webigniter 2.0 | A scaffolder for static websites.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "webigniter": "bin/webigniter.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebbaum/webigniter.git"
+  },
+  "keywords": [
+    "webpack",
+    "static",
+    "website",
+    "sass"
+  ],
+  "author": "Sebastian Baum",
+  "license": "Apache License 2.0",
+  "bugs": {
+    "url": "https://github.com/sebbaum/webigniter/issues"
+  },
+  "homepage": "https://github.com/sebbaum/webigniter#readme"
+}
