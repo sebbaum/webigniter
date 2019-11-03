@@ -12,8 +12,9 @@ Webigniter 2.0
 1. Run `npm link` to install the application globally.
 1. Run `webigniter` --> You should see some kind of output.
 
-## Roadmap
+## Roadmap/Todos
+* Integrate version scripts
 * Use a buildtool
 * Use TypeScript
-* Integrate Jest
 * Implement the actual scaffolding
+    * Use templates (ejs)
