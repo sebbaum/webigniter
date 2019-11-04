@@ -13,7 +13,6 @@ Webigniter 2.0
 1. Run `webigniter` --> You should see some kind of output.
 
 ## Roadmap/Todos
-* Integrate version scripts
 * Use a buildtool
 * Use TypeScript
 * Implement the actual scaffolding
